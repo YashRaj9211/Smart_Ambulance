@@ -2,6 +2,10 @@
 
 Smart Ambulance is a novel solution to streamline emergency medical services. With just a click, patients can request an ambulance, track its location in real-time, and receive critical details about the driver and vehicle. The platform offers a dual interface: one for patients in need and another for ambulance drivers.
 
+## Related repositories
+  - [GeoLocation Service](https://github.com/YashRaj9211/redis_amb_service)
+  - [DB Service](https://github.com/YashRaj9211/amb_driver_db)
+  - [Frontend](https://github.com/YashRaj9211/HealthSync-User-Application)
 ## Features
 
 - **User Interface**:
